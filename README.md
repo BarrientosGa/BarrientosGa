@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, Soy Gabriel Barrientos</h1>
-<h3 align="center">Soy desarrollador front-end y proximamente licenciado en informatica 😉</h3>
+<h3 align="center">Soy desarrollador Full Stack 😉</h3>
 
 <h3 align="left">Conectate conmigo:</h3>
 <p align="left">
